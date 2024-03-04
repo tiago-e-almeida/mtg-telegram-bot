@@ -1,3 +1,6 @@
+
+Based on https://github.com/A7F/mtg-telegram-assistant
+
 ![Python version](https://img.shields.io/badge/Python-v3.8-blue.svg)
 
 ## What can this bot do?
